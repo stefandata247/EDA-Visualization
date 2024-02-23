@@ -149,10 +149,7 @@ df.columns
 
 
 
-    Index(['show_id', 'title', 'director', 'cast', 'country', 'date_added',
-           'release_year', 'rating', 'duration', 'listed_in', 'description',
-           'type'],
-          dtype='object')
+   
 
 
 
@@ -271,15 +268,7 @@ df.head(10)
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+   
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -478,15 +467,7 @@ df.head()
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -806,15 +787,7 @@ small[['title', "release_year"]][:15]
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
